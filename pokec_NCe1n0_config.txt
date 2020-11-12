@@ -1,0 +1,26 @@
+#config entries format:
+#variable=value
+#blocks type c n count more
+#comment starting with #
+#
+number_of_vertices=990908
+number_of_communities=1580364
+communities_filename=communities-pokec-NCe1n0
+number_of_edges=19684191
+triangle_portion=0.5
+blocks initial 8 3 3142 0.01
+blocks initial 3 9 3282 0.01
+blocks initial 4 6 3668 0.01
+blocks initial 3 8 5128 0.01
+blocks initial 7 3 6407 0.01
+blocks initial 5 4 6858 0.01
+blocks initial 4 5 7916 0.01
+blocks initial 3 7 8602 0.02
+blocks initial 6 3 13341 0.02
+blocks extended 3 6 15569 0.03
+blocks initial 4 4 21187 0.04
+blocks initial 5 3 30241 0.06
+blocks extended 3 5 31047 0.06
+blocks extended 3 4 72487 0.13
+blocks extended 4 3 75626 0.14
+blocks extended 3 3 213472 0.39
